@@ -1,1 +1,1 @@
-#AIproject
+#day-1project
